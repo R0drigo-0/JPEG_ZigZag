@@ -6,7 +6,7 @@
 4. Calculate the DCT in 2D for both blocks
 5. It is ordered in zig-zag
 
-# Processing
+## Processing
 <div align="center">
 <img src="assets/figure1.png">
 </div>
